@@ -149,7 +149,7 @@ Include:
 
 Example:
 
-- **tdbflow** – A lightweight CLI tool that simplifies Git workflows for teams using Trunk-Based Development by automating common Git operations.
+- **tbdflow** – A lightweight CLI tool that simplifies Git workflows for teams using Trunk-Based Development by automating common Git operations.
 
 ---
 
