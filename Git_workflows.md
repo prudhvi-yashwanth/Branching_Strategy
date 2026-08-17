@@ -161,7 +161,7 @@ How often the team successfully deploys code to production.
 
 ### Lead Time for Changes (LTC)
 
-The time taken from committing code until it is running in production.
+ The total time it takes for a code commit to successfully run in a production environment
 
 ### Mean Time to Recovery (MTTR)
 
